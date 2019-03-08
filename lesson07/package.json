@@ -1,0 +1,12 @@
+{
+  "name": "lesson07",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "eslint": "eslint src"
+  },
+  "devDependencies": {
+    "eslint": "^5.15.1"
+  }
+}
